@@ -1,0 +1,1 @@
+SELECT * FROM sakila.actor_info;
